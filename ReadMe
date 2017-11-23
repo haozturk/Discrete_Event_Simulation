@@ -1,0 +1,14 @@
+-> I have 3 header files and corresponding 3 cpp files and a main.cpp file in this Project. I also added the CMakeLists.txt file.
+
+-> General Process is done in the main.cpp
+
+-> I tried the code in VM with the command ./project2 inputFile outputFile
+ 
+-> I get the correct results from all the test cases, i checked them with https://www.diffchecker.com/diff this tool
+
+-> There is an additional empty line in each of the output file. I think it's not a problem for you
+
+-> All test cases are finished in less than a second except the one that has large input. It takes 5 seconds on average. I thought that it is a reasonable time.
+
+Best regards
+Hasan Öztürk
